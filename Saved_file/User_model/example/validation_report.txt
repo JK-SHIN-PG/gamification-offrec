@@ -1,0 +1,2 @@
+{'save': 'example_test', 'bth': 1024, 'gpu': '0'}
+accuracy : 93.07%

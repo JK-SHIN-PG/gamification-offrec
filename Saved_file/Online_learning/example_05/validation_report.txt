@@ -1,0 +1,3 @@
+lambda : 0.5 
+Acceptance Ratio : 4.99	 logprob : -6.508
+LOS : 192.7	 TPP(won) : 92165.0

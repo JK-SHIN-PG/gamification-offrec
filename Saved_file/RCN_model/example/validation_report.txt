@@ -1,0 +1,14 @@
+{'mode': 'test', 'save': 'example', 'bth': 1024, 'gpu': '0'}
+
+K : 1	 HR : 0.0297	 prec : 0.0297 
+NG : 0.0297	 NG_product_level : 0.309 
+MAP : 0.0297	 MAP_product_level : 0.6329 
+
+K : 5	 HR : 0.0927	 prec : 0.0197 
+NG : 0.0616	 NG_product_level : 0.4214 
+MAP : 0.0239	 MAP_product_level : 0.6234 
+
+K : 20	 HR : 0.188	 prec : 0.0107 
+NG : 0.0873	 NG_product_level : 0.4663 
+MAP : 0.0161	 MAP_product_level : 0.5747 
+
