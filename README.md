@@ -4,6 +4,8 @@
 
 This paper has been 'accepted' to **SIGKDD2022**.
 
+Note: we found the wrong description in our paper (In section 3.6 (p. 6)). The decision of user model on the recommended items (which is determined by the decision-making function pretrained in offline learning) is greedy with 80% probability and random with 20% probability. Please refer to this for your clear understanding.
+
 **Title** : Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping
 
 We proposed a gamification approach wherein an actual store is emulated in a pixel world and the recurrent convolutional network (RCN) is trained to learn the spatiotemporal representation of offline shopping.  
