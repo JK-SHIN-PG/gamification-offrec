@@ -4,7 +4,7 @@
 
 This paper has been 'accepted' to **SIGKDD2022**.
 
-**Note: we found the wrong description in our paper (In section 3.6 (p. 6)). The decision of user model on the recommended items (which is determined by the decision-making function pretrained in offline learning) is greedy with 80% probability and random with 20% probability. Please refer to this for your clear understanding.**
+**Note: we found the wrong description in our paper (In section 3.6 (p. 6)). The decision of user model on the recommended items (which is determined by the decision-making function pretrained in offline learning) is greedy with 80% probability and random with 20% probability. And decision making function of the user model was set not 'to follow the A* algorithm' but 'to follow TSP solver'. Please refer to this for your clear understanding.**
 
 **Title** : Recommendation in Offline Stores: A Gamification Approach for Learning the Spatiotemporal Representation of Indoor Shopping
 
